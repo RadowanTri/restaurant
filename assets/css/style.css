@@ -1217,6 +1217,7 @@ ul {
   justify-content: center;
   position: relative;
   background-color: #111;
+  z-index: 999;
 }
 .discount-option::before{
   content: "";
